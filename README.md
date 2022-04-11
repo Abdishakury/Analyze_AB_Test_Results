@@ -12,7 +12,8 @@ For this project, the results of an A/B test run by an e-commerce website.
 My goal in this notebook is to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 
-![boostrapping](https://user-images.githubusercontent.com/83236722/162835680-e083ffd0-48ba-4b36-9689-b15502e7821e.jpg)
+![boostrapping](https://user-images.githubusercontent.com/83236722/162836086-fe565948-9ca9-444e-8d53-4885f6abc9d3.jpg)
+
 
 
 ## Software:
