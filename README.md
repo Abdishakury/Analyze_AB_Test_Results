@@ -11,6 +11,10 @@ For this project, the results of an A/B test run by an e-commerce website.
 
 My goal in this notebook is to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
+
+![boostrapping](https://user-images.githubusercontent.com/83236722/162835680-e083ffd0-48ba-4b36-9689-b15502e7821e.jpg)
+
+
 ## Software:
 
 One can do this project in Jupyter Notebook. For doing this project one has to install the following packages -
@@ -34,6 +38,14 @@ One can do this project in Jupyter Notebook. For doing this project one has to i
     - Given that an individual received the control page
 - Perform Hypothesis Testing and calculate p-values
 - Conduct Logistic Regression
+
+
+![hist_Pvalue](https://user-images.githubusercontent.com/83236722/162835729-b5c46ec4-252b-4ada-b4f5-f375854f70b4.jpg)
+
+
+![PartII_ab_test](https://user-images.githubusercontent.com/83236722/162835750-beb935ef-e640-46c0-a06b-f901bb78f41f.jpg)
+
+![table](https://user-images.githubusercontent.com/83236722/162835766-e4efc807-8ba0-440d-93f5-350ca60d6dda.jpg)
 
 
 # NoteBook Content
