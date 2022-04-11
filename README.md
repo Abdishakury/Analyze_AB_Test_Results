@@ -58,6 +58,9 @@ Part II - A/B Test
 
 Part III - A regression approach
 
+![logistic_regression](https://user-images.githubusercontent.com/83236722/162836359-fcd3a734-3692-4c5e-a2aa-f5ed851f1676.jpg)
+
+
 ## Conclusions
 
 The findings show that the new and old pages have roughly equivalent chances of converting users, based on the statistical tests we conducted, the Z-test, logistic regression model, and actual difference identified. The null hypothesis is not rejected. I advise the e-commerce business to retain the old page. This would save you time and money by avoiding the need to establish a new website.
